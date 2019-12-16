@@ -7,3 +7,4 @@ dist/
 run-all-tests*
 timeit_test.py
 link_prediction_scores_f1.py
+.Rproj.user
